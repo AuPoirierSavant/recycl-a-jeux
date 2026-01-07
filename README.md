@@ -14,7 +14,7 @@ sur le modèle des boîtes à livres.
 
 ## 📘 Documentation
 La documentation complète du projet est disponible sur GitBook :
-👉 *(lien à ajouter)*
+👉 *A venir*
 
 ## 📦 Contenu de ce dépôt
 Ce dépôt contient les ressources open source du projet :
